@@ -1,0 +1,15 @@
+DELETE BEFORE USE.
+// This file should be saved as backend_files.txt within the root directory alongside config.json. These files will be built under the following structure:
+// AppName/backend/path/as/below
+// For simplicity, the backend folder name is hardcoded in the app-generator.py file.
+// These represent the files that will be generated.
+// It is suggested to describe the purpose of each file in the app description config.
+// Provide only the list of files.
+DELETE BEFORE USE.
+
+path/to/my/file1.txt
+path/to/my/file2.js
+path/to/my/subdirectory/file3.py
+path/to/my/subdirectory/file4.css
+path/to/my/anotherdirectory/file5.html
+path/to/my/anotherdirectory/file6.ts

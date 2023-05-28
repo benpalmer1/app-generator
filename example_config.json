@@ -1,0 +1,14 @@
+{
+    "IMPORTANT_NOTE": "This file should be stored as 'config.json' under the root directory alongside app-generator.py.",
+
+    "app_name": "App Name Here. Important Field.",
+    "app_description": "App Description Here. Important Field.",
+    "api_key": "API Key Here.",
+    "gpt_model_name": "gpt-4",
+    "tokens_limit": 2000,
+    "temperature": 0.8,
+    "frontend_platform": "React, TypeScript, Yarn",
+    "backend_platform": "AWS Serverless, TypeScript",
+    "save_prompt_logs": true,
+    "prompt_logs_path": "logs.txt"
+  }
