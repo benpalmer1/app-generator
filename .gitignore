@@ -1,0 +1,8 @@
+.DS_Store
+backend_files.txt
+config.json
+files.txt
+frontend_files.txt
+logs.txt
+validator_config.json
+*
